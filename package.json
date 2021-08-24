@@ -1,5 +1,5 @@
 {
-  "name": "strapi-connector-redis",
+  "name": "strapi3-connector-redis",
   "version": "0.0.7",
   "description": "Redis hook for the Strapi framework",
   "main": "lib/index.js",
